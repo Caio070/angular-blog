@@ -9,6 +9,7 @@
   font-family: 'Segoe UI';
   display: flex;
   justify-content: center;
+  cursor: default;
 }
 
 .container__menu-title>hr {

@@ -20,10 +20,19 @@
 
 .content__description {
   margin-top: 15px;
+  cursor: default;
 }
 
 .content__description>p {
   width: 500px;
   margin-top: 20px;
   color: grey;
+}
+
+.content__title {
+  cursor: default;
+}
+
+.hr_top {
+  margin-top: 20px;
 }
